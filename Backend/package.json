@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/Sambhav-3010/ReWear-by-SVAMware#readme",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
     "bcryptjs": "^3.0.2",
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
